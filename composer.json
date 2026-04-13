@@ -1,0 +1,14 @@
+{
+    "name": "licensemanager/pro-sdk",
+    "description": "SDK for integrating License Manager for WooCommerce into WordPress plugins and themes.",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "LicenseManagerSDK\\": "lmw-client-sdk/src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
