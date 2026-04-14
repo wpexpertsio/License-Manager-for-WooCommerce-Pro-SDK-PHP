@@ -1,6 +1,6 @@
 {
-    "name": "licensemanager/pro-sdk",
-    "description": "SDK for integrating License Manager for WooCommerce into WordPress plugins and themes.",
+    "name": "licensemanager/license-manager-for-woocommerce-pro-sdk-php",
+    "description": "Professional framework-agnostic PHP SDK for managing and integrating License Manager for WooCommerce (Pro) into SaaS, CMS, and standalone software.",
     "type": "library",
     "license": "GPL-2.0-or-later",
     "autoload": {
